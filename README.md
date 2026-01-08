@@ -5,3 +5,6 @@ Day 1 belajar "pusing"
 
 Nama: M.Renaldi  
 NIM: 011250021
+
+# edit 
+Informatika
